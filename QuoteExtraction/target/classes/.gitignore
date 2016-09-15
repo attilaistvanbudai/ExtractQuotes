@@ -1,0 +1,11 @@
+/StoryExample
+/de-pos-maxent.bin
+/de-pos-perceptron.bin
+/en-pos-maxent.bin
+/en-sent.bin
+/fr-pos-ftb-morpho.bin
+/quote detection article1.txt
+/quote detection article2.txt
+/quote detection article3.txt
+/quote detection article4.txt
+/quote detection article5.txt

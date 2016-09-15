@@ -1,0 +1,74 @@
+The original free software company 
+
+The model for running a business that sells free software goes back a 
+long way. In 1989, two years before Linus Torvalds made the first Linux 
+announcement to comp.os.minix and nine years before the creation of the 
+"Open Source Initiative", John Gilmore, David Vinayak Wallace and 
+Michael Tiemann set up Cygnus Support (later Cygnus Solutions), the 
+first company in the world dedicated to the promotion and support of 
+free software. 
+
+According to John Gilmore, the slogan on the first Cygnus Support 
+T-shirt was "We make free software affordable." 
+
+Cygnus became a key contributor to GNU and Linux and reaped a 
+considerable reward for being the first company to take the then radical 
+(and to many people, counter-intuitive) step of marketing software that 
+was released exclusively under free software licenses. Richard Stallman 
+noted that Cygnus was a recursive acronym for 'Cygnus - Your GNU 
+Support', although Tiemann later quipped "That's like saying Emacs 
+stands for 'Eight Megabytes And Constantly Swapping'." 
+
+By the time the company was acquired by Red Hat for $600 million in 
+November 1999, "making all of its early employees into millionaires", 
+Cygnus employed more than 120 people and had annual revenues over $20 
+million. A Socialist Polemic 
+
+"On the surface", Tiemann wrote of his initial encounter with free 
+software, the GNU Manifesto "read like a socialist polemic, but I saw 
+something different. I saw a business plan in disguise. The basic idea 
+was simple: Open Source would unify the efforts of programmers around 
+the world, and companies that provided commercial services 
+(customisations, enhancements, bug fixes, support) based on that 
+software could capitalise on the economies of scale..." 
+
+In the same article Tiemann recounted "At first I tried to make my 
+argument the way that Stallman made his: on the merits. I would explain 
+how freedom to share would lead to greater innovation at lower cost, 
+greater economies of scale through more open standards, and people would 
+universally respond 'It's a great idea, but it will never work, because 
+nobody is going to pay money for free software.' After two years of 
+polishing my rhetoric, refining my arguments, and delivering my messages 
+to people who paid for me to fly all over the world, I never got farther 
+than 'It's a great idea, but...,' then I had my second insight: if 
+everybody thinks it's a great idea, it probably is, and if nobody thinks 
+it will work, I'll have no competition!" 
+
+Subsequently, Cygnus became a significant provider of support for free 
+software products in many sectors of industry. Major clients included 
+Intel, AMD, 3Com and Adobe. And as Gilmore recounts "ultimately, we did 
+get million-dollar contracts, such as one from Sony for building 
+PlayStation compilers and emulators. This allowed game developers to 
+start working a year before the PlayStation hardware was available." The 
+Route to Untold Riches 
+
+The attractions of building a business around free software are obvious. 
+In his definition of Open Core Licensing Lampitt argues that vendors 
+profit from the knowledge that "the open source nature of a product 
+promotes a lively ecosystem that pops up around it. That ecosystem might 
+be driven by a handful of hardcore developers and/or partners, as well 
+as the occasional 'long tail' specialist contributors. Nonetheless, the 
+benefit is there." 
+
+JBoss claims downloads reaching into the millions. Its paying customers 
+are many less, but free downloads provide free advertising, bring future 
+contributors and customers, and encourage feedback. In the long run, 
+paying JBoss to maintain the software is cheaper than employing a 
+specialist to do the work for you. 
+
+The days of Gates and Ellison, when software could be the route to 
+untold riches, are gone, perhaps forever, not just because of the 
+influence of free software, but because the pace of development and 
+customisation in the world of information technology means that the long 
+term value of software is somewhere near to zero. Last year's 
+revolutionary product is soon defunct or commoditised. 
